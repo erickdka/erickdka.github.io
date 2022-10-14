@@ -1,5 +1,5 @@
-# Real Python, Fake Jobs
+# ErickDka, Toko Online
 
-A fake job board for your Real Python web scraping training.
+A fake job board for your ErickDka web scraping training.
 
-This site is used as an example for a static site in the [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/) tutorial.
+This site is used as an example for a static site in the [Beautiful Soup: Build a Web Scraper With Python]tutorial.
