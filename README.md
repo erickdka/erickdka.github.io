@@ -1,4 +1,4 @@
-# ErickDka, Toko Online
+# ErickDka, Portofolio Web
 
 A fake job board for your ErickDka web scraping training.
 
